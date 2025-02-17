@@ -1,0 +1,286 @@
+12:26:18:755 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\groupingtest.xml
+
+12:28:16:925 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\master.xml
+
+12:28:20:609 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+12:28:20:635 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+12:28:21:183 [main] INFO  testCases.TC0001_RegisterAcntTest - Entering personal details
+12:28:23:494 [main] INFO  testCases.TC0001_RegisterAcntTest - Confirming the message
+12:28:23:576 [main] INFO  testCases.TC0001_RegisterAcntTest - Finished Test TC0001_CreateAcntTest
+12:28:26:067 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+12:28:26:067 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+12:28:26:452 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Login Page
+12:28:27:643 [main] INFO  testCases.TC0002_LoginPageTest - Opening My Account Page
+12:28:27:698 [main] INFO  testCases.TC0002_LoginPageTest - Finished Testing TC0002_LoginPageTest
+12:29:37:642 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\groupingtest.xml
+
+12:31:52:284 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\groupingtest.xml
+
+12:32:14:555 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\groupingtest.xml
+
+12:35:43:093 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\groupingtest.xml
+
+12:36:13:220 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\groupingtest.xml
+
+12:36:16:148 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+12:36:16:171 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+12:36:17:169 [main] INFO  testCases.TC0001_RegisterAcntTest - Entering personal details
+12:36:18:826 [main] INFO  testCases.TC0001_RegisterAcntTest - Confirming the message
+12:36:18:884 [main] INFO  testCases.TC0001_RegisterAcntTest - Finished Test TC0001_CreateAcntTest
+12:36:21:297 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+12:36:21:297 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+12:36:21:679 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Login Page
+12:36:23:815 [main] INFO  testCases.TC0002_LoginPageTest - Opening My Account Page
+12:36:23:877 [main] INFO  testCases.TC0002_LoginPageTest - Finished Testing TC0002_LoginPageTest
+12:56:25:778 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\groupingtest.xml
+
+12:56:30:049 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+12:56:30:072 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+12:56:30:535 [main] INFO  testCases.TC0001_RegisterAcntTest - Entering personal details
+12:56:32:451 [main] INFO  testCases.TC0001_RegisterAcntTest - Confirming the message
+12:56:32:506 [main] INFO  testCases.TC0001_RegisterAcntTest - Finished Test TC0001_CreateAcntTest
+12:56:34:804 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+12:56:34:804 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+12:56:35:206 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Login Page
+12:56:36:327 [main] INFO  testCases.TC0002_LoginPageTest - Opening My Account Page
+12:56:36:381 [main] INFO  testCases.TC0002_LoginPageTest - Finished Testing TC0002_LoginPageTest
+14:16:39:449 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\master.xml
+
+14:16:42:271 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+14:16:42:283 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+14:16:42:607 [main] INFO  testCases.TC0001_RegisterAcntTest - Entering personal details
+14:16:43:660 [main] INFO  testCases.TC0001_RegisterAcntTest - Confirming the message
+14:16:43:686 [main] ERROR testCases.TC0001_RegisterAcntTest - Test failed
+14:16:45:615 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+14:16:45:615 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+14:16:45:881 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Login Page
+14:16:46:563 [main] INFO  testCases.TC0002_LoginPageTest - Opening My Account Page
+14:16:46:590 [main] INFO  testCases.TC0002_LoginPageTest - Finished Testing TC0002_LoginPageTest
+14:29:25:771 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\test-output\testng-failed.xml
+
+14:29:27:880 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+14:29:27:892 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+14:29:28:229 [main] INFO  testCases.TC0001_RegisterAcntTest - Entering personal details
+14:29:29:192 [main] INFO  testCases.TC0001_RegisterAcntTest - Confirming the message
+14:29:29:237 [main] INFO  testCases.TC0001_RegisterAcntTest - Finished Test TC0001_CreateAcntTest
+11:21:05:042 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\master.xml
+
+11:21:10:638 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+11:21:10:663 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+11:21:13:008 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+11:21:13:008 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+11:27:22:314 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\master.xml
+
+11:27:25:300 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+11:27:25:328 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+11:27:27:645 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+11:27:27:645 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+11:52:53:516 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\master.xml
+
+11:52:57:081 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+11:52:57:105 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+11:52:57:645 [main] INFO  testCases.TC0001_RegisterAcntTest - Entering personal details
+11:53:00:128 [main] INFO  testCases.TC0001_RegisterAcntTest - Confirming the message
+11:53:00:217 [main] INFO  testCases.TC0001_RegisterAcntTest - Finished Test TC0001_CreateAcntTest
+11:53:02:749 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+11:53:02:750 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+11:53:04:066 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Login Page
+11:53:05:173 [main] INFO  testCases.TC0002_LoginPageTest - Opening My Account Page
+11:53:05:240 [main] INFO  testCases.TC0002_LoginPageTest - Finished Testing TC0002_LoginPageTest
+11:59:31:136 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\master.xml
+
+12:04:06:209 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\master.xml
+
+12:10:51:937 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\master.xml
+
+12:13:49:631 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\master.xml
+
+12:18:37:334 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\master.xml
+
+12:14:58:679 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\master.xml
+
+12:17:38:821 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\master.xml
+
+12:19:44:429 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\master.xml
+
+12:19:48:129 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+12:19:48:158 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+12:19:49:391 [main] INFO  testCases.TC0001_RegisterAcntTest - Entering personal details
+12:19:51:373 [main] INFO  testCases.TC0001_RegisterAcntTest - Confirming the message
+12:19:51:437 [main] INFO  testCases.TC0001_RegisterAcntTest - Finished Test TC0001_CreateAcntTest
+12:19:54:038 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+12:19:54:039 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+12:19:55:196 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Login Page
+12:19:56:293 [main] INFO  testCases.TC0002_LoginPageTest - Opening My Account Page
+12:19:56:406 [main] INFO  testCases.TC0002_LoginPageTest - Finished Testing TC0002_LoginPageTest
+12:34:56:219 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\master.xml
+
+12:34:59:741 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+12:34:59:766 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+12:35:00:955 [main] INFO  testCases.TC0001_RegisterAcntTest - Entering personal details
+12:35:05:251 [main] INFO  testCases.TC0001_RegisterAcntTest - Confirming the message
+12:35:05:310 [main] INFO  testCases.TC0001_RegisterAcntTest - Finished Test TC0001_CreateAcntTest
+12:35:08:089 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+12:35:08:089 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+12:35:09:285 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Login Page
+12:35:10:241 [main] INFO  testCases.TC0002_LoginPageTest - Opening My Account Page
+12:35:10:296 [main] INFO  testCases.TC0002_LoginPageTest - Finished Testing TC0002_LoginPageTest
+12:35:41:240 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\master.xml
+
+12:36:26:890 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\master.xml
+
+12:49:13:501 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\master.xml
+
+12:49:20:086 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+12:49:20:116 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+12:49:21:803 [main] INFO  testCases.TC0001_RegisterAcntTest - Entering personal details
+12:49:23:761 [main] INFO  testCases.TC0001_RegisterAcntTest - Confirming the message
+12:49:23:844 [main] INFO  testCases.TC0001_RegisterAcntTest - Finished Test TC0001_CreateAcntTest
+12:49:28:478 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+12:49:28:478 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+12:49:29:222 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Login Page
+12:49:30:326 [main] INFO  testCases.TC0002_LoginPageTest - Opening My Account Page
+12:49:30:405 [main] INFO  testCases.TC0002_LoginPageTest - Finished Testing TC0002_LoginPageTest
+12:50:52:572 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\master.xml
+
+12:51:47:673 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\master.xml
+
+12:52:52:118 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\master.xml
+
+12:52:56:821 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+12:52:56:850 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+12:52:57:483 [main] INFO  testCases.TC0001_RegisterAcntTest - Entering personal details
+12:52:59:919 [main] INFO  testCases.TC0001_RegisterAcntTest - Confirming the message
+12:52:59:991 [main] INFO  testCases.TC0001_RegisterAcntTest - Finished Test TC0001_CreateAcntTest
+12:53:03:857 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+12:53:03:857 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+12:53:04:510 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Login Page
+12:53:05:676 [main] INFO  testCases.TC0002_LoginPageTest - Opening My Account Page
+12:53:05:818 [main] INFO  testCases.TC0002_LoginPageTest - Finished Testing TC0002_LoginPageTest
+10:35:10:342 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\master.xml
+
+10:35:13:251 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+10:35:13:267 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+10:35:13:702 [main] INFO  testCases.TC0001_RegisterAcntTest - Entering personal details
+10:35:14:956 [main] INFO  testCases.TC0001_RegisterAcntTest - Confirming the message
+10:35:14:999 [main] INFO  testCases.TC0001_RegisterAcntTest - Finished Test TC0001_CreateAcntTest
+10:35:16:110 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+10:35:16:110 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+10:35:16:470 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Login Page
+10:35:17:159 [main] INFO  testCases.TC0002_LoginPageTest - Opening My Account Page
+10:35:17:220 [main] INFO  testCases.TC0002_LoginPageTest - Finished Testing TC0002_LoginPageTest
+10:39:23:205 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\grid-docker.xml
+
+10:39:25:637 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+10:39:25:654 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+10:39:26:107 [main] INFO  testCases.TC0001_RegisterAcntTest - Entering personal details
+10:39:27:354 [main] INFO  testCases.TC0001_RegisterAcntTest - Confirming the message
+10:39:27:408 [main] INFO  testCases.TC0001_RegisterAcntTest - Finished Test TC0001_CreateAcntTest
+10:39:28:520 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+10:39:28:520 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+10:39:28:845 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Login Page
+10:39:29:557 [main] INFO  testCases.TC0002_LoginPageTest - Opening My Account Page
+10:39:29:601 [main] INFO  testCases.TC0002_LoginPageTest - Finished Testing TC0002_LoginPageTest
+10:39:33:888 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+10:39:33:888 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+10:39:34:411 [main] INFO  testCases.TC0001_RegisterAcntTest - Entering personal details
+10:39:35:398 [main] INFO  testCases.TC0001_RegisterAcntTest - Confirming the message
+10:39:35:426 [main] INFO  testCases.TC0001_RegisterAcntTest - Finished Test TC0001_CreateAcntTest
+10:39:39:367 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+10:39:39:367 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+10:39:39:810 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Login Page
+10:39:40:424 [main] INFO  testCases.TC0002_LoginPageTest - Opening My Account Page
+10:39:40:457 [main] INFO  testCases.TC0002_LoginPageTest - Finished Testing TC0002_LoginPageTest
+10:13:36:951 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+10:13:36:970 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+10:13:37:349 [main] INFO  testCases.TC0001_RegisterAcntTest - Entering personal details
+10:13:38:292 [main] INFO  testCases.TC0001_RegisterAcntTest - Confirming the message
+10:13:38:317 [main] INFO  testCases.TC0001_RegisterAcntTest - Finished Test TC0001_CreateAcntTest
+10:13:41:512 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+10:13:41:512 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+10:13:41:846 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Login Page
+10:13:42:470 [main] INFO  testCases.TC0002_LoginPageTest - Opening My Account Page
+10:13:42:514 [main] INFO  testCases.TC0002_LoginPageTest - Finished Testing TC0002_LoginPageTest
+10:33:12:690 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+10:33:12:720 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+10:33:13:277 [main] INFO  testCases.TC0001_RegisterAcntTest - Entering personal details
+10:33:14:861 [main] INFO  testCases.TC0001_RegisterAcntTest - Confirming the message
+10:33:14:956 [main] INFO  testCases.TC0001_RegisterAcntTest - Finished Test TC0001_CreateAcntTest
+10:33:18:811 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+10:33:18:811 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+10:33:19:256 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Login Page
+10:33:20:336 [main] INFO  testCases.TC0002_LoginPageTest - Opening My Account Page
+10:33:20:388 [main] INFO  testCases.TC0002_LoginPageTest - Finished Testing TC0002_LoginPageTest
+11:27:58:402 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\My Files\study\AutomationTesting\EcommerceV0001\master.xml
+
+11:28:04:246 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+11:28:04:270 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+11:28:05:510 [main] INFO  testCases.TC0001_RegisterAcntTest - Entering personal details
+11:28:07:219 [main] INFO  testCases.TC0001_RegisterAcntTest - Confirming the message
+11:28:07:276 [main] INFO  testCases.TC0001_RegisterAcntTest - Finished Test TC0001_CreateAcntTest
+11:28:09:764 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+11:28:09:765 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+11:28:10:892 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Login Page
+11:28:11:775 [main] INFO  testCases.TC0002_LoginPageTest - Opening My Account Page
+11:28:11:867 [main] INFO  testCases.TC0002_LoginPageTest - Finished Testing TC0002_LoginPageTest
+11:30:44:703 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+11:30:44:731 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+11:30:45:840 [main] INFO  testCases.TC0001_RegisterAcntTest - Entering personal details
+11:30:47:580 [main] INFO  testCases.TC0001_RegisterAcntTest - Confirming the message
+11:30:47:655 [main] INFO  testCases.TC0001_RegisterAcntTest - Finished Test TC0001_CreateAcntTest
+11:30:50:310 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+11:30:50:311 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+11:30:51:376 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Login Page
+11:30:52:312 [main] INFO  testCases.TC0002_LoginPageTest - Opening My Account Page
+11:30:52:419 [main] INFO  testCases.TC0002_LoginPageTest - Finished Testing TC0002_LoginPageTest
+11:39:08:410 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+11:39:08:438 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+11:39:09:429 [main] INFO  testCases.TC0001_RegisterAcntTest - Entering personal details
+11:39:11:032 [main] INFO  testCases.TC0001_RegisterAcntTest - Confirming the message
+11:39:11:154 [main] INFO  testCases.TC0001_RegisterAcntTest - Finished Test TC0001_CreateAcntTest
+11:39:13:722 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+11:39:13:722 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+11:39:14:856 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Login Page
+11:39:15:837 [main] INFO  testCases.TC0002_LoginPageTest - Opening My Account Page
+11:39:15:897 [main] INFO  testCases.TC0002_LoginPageTest - Finished Testing TC0002_LoginPageTest
+11:41:42:920 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+11:41:42:946 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+11:41:44:033 [main] INFO  testCases.TC0001_RegisterAcntTest - Entering personal details
+11:41:45:648 [main] INFO  testCases.TC0001_RegisterAcntTest - Confirming the message
+11:41:45:767 [main] INFO  testCases.TC0001_RegisterAcntTest - Finished Test TC0001_CreateAcntTest
+11:41:48:367 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+11:41:48:367 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+11:41:49:413 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Login Page
+11:41:50:391 [main] INFO  testCases.TC0002_LoginPageTest - Opening My Account Page
+11:41:50:450 [main] INFO  testCases.TC0002_LoginPageTest - Finished Testing TC0002_LoginPageTest
