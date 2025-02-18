@@ -102,7 +102,7 @@ public class ExtentReportManager implements ITestListener {
 		extent.flush();
 		
 		//to open report automatically
-		/*String pathOfExtentReport = System.getProperty("user.dir")+"\\reports\\"+repName;
+		String pathOfExtentReport = System.getProperty("user.dir")+"\\reports\\"+repName;
 		File extentReport = new File(pathOfExtentReport);
 		
 		try {
@@ -111,7 +111,7 @@ public class ExtentReportManager implements ITestListener {
 		catch (Exception e) 
 		{
 			e.printStackTrace();
-		}*/
+		}
 
 		//to send email automatically
 		/*  try {

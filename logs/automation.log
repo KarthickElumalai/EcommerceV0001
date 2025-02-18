@@ -284,3 +284,33 @@
 11:41:49:413 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Login Page
 11:41:50:391 [main] INFO  testCases.TC0002_LoginPageTest - Opening My Account Page
 11:41:50:450 [main] INFO  testCases.TC0002_LoginPageTest - Finished Testing TC0002_LoginPageTest
+12:01:41:130 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+12:01:41:165 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+12:01:42:539 [main] INFO  testCases.TC0001_RegisterAcntTest - Entering personal details
+12:01:45:064 [main] INFO  testCases.TC0001_RegisterAcntTest - Confirming the message
+12:01:45:129 [main] INFO  testCases.TC0001_RegisterAcntTest - Finished Test TC0001_CreateAcntTest
+12:01:47:841 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+12:01:47:842 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+12:01:49:020 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Login Page
+12:01:49:917 [main] INFO  testCases.TC0002_LoginPageTest - Opening My Account Page
+12:01:50:015 [main] INFO  testCases.TC0002_LoginPageTest - Finished Testing TC0002_LoginPageTest
+12:08:09:387 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+12:08:09:423 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+12:08:10:600 [main] INFO  testCases.TC0001_RegisterAcntTest - Entering personal details
+12:08:12:162 [main] INFO  testCases.TC0001_RegisterAcntTest - Confirming the message
+12:08:12:293 [main] INFO  testCases.TC0001_RegisterAcntTest - Finished Test TC0001_CreateAcntTest
+12:08:14:996 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+12:08:14:997 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+12:08:16:038 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Login Page
+12:08:16:986 [main] INFO  testCases.TC0002_LoginPageTest - Opening My Account Page
+12:08:17:089 [main] INFO  testCases.TC0002_LoginPageTest - Finished Testing TC0002_LoginPageTest
+12:10:33:504 [main] INFO  testCases.TC0001_RegisterAcntTest - Starting Test TC0001_CreateAcntTest
+12:10:33:536 [main] INFO  testCases.TC0001_RegisterAcntTest - Clicking create account
+12:10:34:774 [main] INFO  testCases.TC0001_RegisterAcntTest - Entering personal details
+12:10:36:650 [main] INFO  testCases.TC0001_RegisterAcntTest - Confirming the message
+12:10:36:717 [main] INFO  testCases.TC0001_RegisterAcntTest - Finished Test TC0001_CreateAcntTest
+12:10:39:374 [main] INFO  testCases.TC0002_LoginPageTest - Starting Test TC0002_LoginPageTest
+12:10:39:374 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Page
+12:10:40:516 [main] INFO  testCases.TC0002_LoginPageTest - Opening Home Login Page
+12:10:41:457 [main] INFO  testCases.TC0002_LoginPageTest - Opening My Account Page
+12:10:41:513 [main] INFO  testCases.TC0002_LoginPageTest - Finished Testing TC0002_LoginPageTest
